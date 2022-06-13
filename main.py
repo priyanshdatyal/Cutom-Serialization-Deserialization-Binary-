@@ -1,6 +1,4 @@
-
 import ast
-
 
 def encryptInt(num):
     return "{0:b}".format(num)
